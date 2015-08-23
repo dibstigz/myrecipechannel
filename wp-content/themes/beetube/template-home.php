@@ -125,7 +125,7 @@ get_header(); ?>
 					</div>
 				</li>
 			</ul>
-	<?
+	<?php
 		dynamic_sidebar( 'blog-grid' );
 	?>
 	</div><!-- end #content -->
