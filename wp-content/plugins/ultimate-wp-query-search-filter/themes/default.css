@@ -1,0 +1,43 @@
+
+.uwpqsf_class{
+
+  padding:15px;
+  background-color: #ebebeb;
+  border:0px solid red;}
+
+.uform_title{
+  display:none;}
+
+.uwpqsf_class span{
+    clear:both;
+    font-weight:bold;
+    color:white;
+    display:block;
+    padding:13px 0 13px 0; }
+
+.uwpqsf_class label{
+  width:75px;
+  float:left;
+  margin:3px 0; }
+
+  .uwpqsf_class label.keywordLabel{
+    clear:both;
+    width:75px;
+    color:white;
+    font-weight:bold;
+    padding:0px;
+    margin:0px 0; }
+
+  .uwpqsftext{
+    width:445px;
+    height:50px;
+
+  }
+
+
+.submitbutton
+{
+  background:url(submit.png);
+  background-repeat: no-repeat;
+
+}
