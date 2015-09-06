@@ -10,9 +10,17 @@
  */
 ?>
 
-<div class="searchform-div">
-	<form method="get" class="searchform" action="<?php echo home_url(); ?>/">
-		<div class="search-text-div"><input type="text" name="s" class="search-text" value="" placeholder="<?php _e('Search Your Keyword |', 'jtheme') ?>" /></div>
-		<div class="search-submit-div btn"><input type="submit" class="search-submit" value="<?php _e('Search', 'jtheme') ?>" /></div>
-	</form><!--end #searchform-->
+<div id="searchContainer">
+	<form method="get" class="" action="<?php echo home_url(); ?>/">
+
+		<div class="">
+			<input type="text" name="s" id="textEntry"  value="" placeholder="<?php _e('Enter Your Search Term Here', 'jtheme') ?>" />
+		</div>
+
+		<div class="">
+			<input type="submit" id="searchRecipe"  value="" />
+		</div>
+
+	</form>
+	<!--end #searchform-->
 </div>

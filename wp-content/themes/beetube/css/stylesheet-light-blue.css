@@ -110,7 +110,7 @@ h2 {
 	font-size:40px;
 	font-family:ArcherLight;
 	list-style-type: none;
-	margin-bottom:30px;
+	margin-bottom:15px;
 
 }
 h3 {
@@ -1147,9 +1147,6 @@ input.search-text {
 .search-submit-div {
 	width:28px;
 	height:28px;
-	position:absolute;
-	right:0;
-	top:0;
 	overflow:hidden;
 	-webkit-border-radius:0 3px 3px 0;
 	border-radius:0 3px 3px 0;
@@ -1650,12 +1647,13 @@ text-align: center;
 .single-post .stats .views,
 .single-post .stats .likes,
 .single-post .stats .comments {
-	margin-right:10px;
+	/*margin-right:10px;
 	padding-left:30px;
-	background:url(images/icons-light-blue.png) no-repeat 0 -220px;
+	background:url(images/icons-light-blue.png) no-repeat 0 -220px;*/
 }
 .item .stats .views {
-	padding-left:30px;
+	display:none;
+	/*padding-left:30px;*/
 }
 .item .stats .comments,
 .single-post .stats .comments {
@@ -1920,9 +1918,9 @@ text-overflow: ellipsis;
 
 
 .author{
-	background:url(images/auther-icon.png) no-repeat left;
+	/*background:url(images/auther-icon.png) no-repeat left;
 	padding-left:25px;
-	margin-right:10px;
+	margin-right:10px;*/
 	}
 body.author{
 	background:none;
@@ -1958,11 +1956,13 @@ body.author a{
 .single-post .time,
 time
 {
-	background:url(images/time-icon.png) no-repeat left top;
-	padding-left:25px;
+	/*background:url(images/time-icon.png) no-repeat left top;
+	padding-left:25px;*/
 	font-size:12px;
 	color:#999999;
-	margin-right:10px;
+	text-align:right;
+	float:right;
+	margin-right:0px;
 }
 /*== Grid View with Medium Thumbnial
  *=================================*/
@@ -4695,3 +4695,33 @@ padding-left:10px;
 	}
 #top-nav { display:none; }
 #wpadminbar { display:none; }
+
+
+
+	#searchContainer{
+	background:#ccc;
+	background:url(images/searchBG.png) no-repeat;
+	width:832px;
+	height:55px;
+	margin:0 0 20px 0;
+	padding:40px 20px 20px 20px;}
+
+	#searchContainer #textEntry{
+		width:400px;
+		float:left;
+		font-size:18px;
+		font-style:italic;
+		color:black;
+		padding:6px 10px 0px 10px;
+		height:34px;}
+
+		input#searchRecipe{
+		background:url(images/searchRecipeButton.png);
+		background-repeat: no-repeat;
+		width:165px;
+		border-radius:0px;
+		float:left;
+		margin:0 0 0 20px;
+		height:45px;
+		padding:0px;
+		border: 0px solid red;}

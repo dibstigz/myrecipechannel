@@ -1,0 +1,125 @@
+[02-09-2015 12:14:32] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-erin-made-this-14-2b59a97c666c9b44cfb8a102839c8c4252326fa9.jpg
+
+[02-09-2015 12:14:32] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-erin-made-this-15x-bf4af07a4526c1ac9ec1d2f9b44cf1fa49f68dfb.jpg
+
+[02-09-2015 12:14:33] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i0.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-erin-made-this-5-95959cbe27bdacc768c8520244e781e0756ccf02.jpg
+
+[02-09-2015 12:14:34] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i0.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-erin-made-this-6-c9d2e420f4bbb0eb4dc864daaf82932374df7082.jpg
+
+[02-09-2015 12:14:35] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-erin-made-this-13-11ef4a2d646c33a541efce65b4c5ba8f271b9d2f.jpg
+
+[02-09-2015 12:14:36] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/09/My-Dads-Pork-Ribs-20-erin-made-this1-b92282b38baab5f0b7db6ff01602e618d5f0525e.jpg
+
+[02-09-2015 12:14:39] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i0.wp.com/erinmadethis.com/wp-content/uploads/2015/08/IMG_6219-a2f600781e1051dcf32c5bf122ce00f645b9f086.jpg
+
+[02-09-2015 12:14:42] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-43-c6d331204d5bacf979bb5481bbdd960c9e8bac58.jpg
+
+[02-09-2015 12:14:43] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i0.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-67ef708ce7e2afa2e0a42219b04cd375562f2928.jpg
+
+[02-09-2015 12:14:43] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-3-a91d6a1c3133cc906033d8a3f3fced58029d41cc.jpg
+
+[02-09-2015 12:14:44] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-7-6fade4fd1120866d5c56e88cb170a4ff53246917.jpg
+
+[02-09-2015 12:14:52] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/output_MjVWIK-03290176dfe7a125107e482ed3873970d3c8996f.gif
+
+[02-09-2015 12:14:52] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-331-0e8489270a045e33ab064dab5d44a4bae5442f5d.jpg
+
+[02-09-2015 12:14:53] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-41-720a8ae45d1a3654aba196ffe979b1f5ddf3f1e1.jpg
+
+[02-09-2015 12:14:54] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i0.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-461-86f8d44ff7eb16e43e0d7c1b0f472a00374b7d75.jpg
+
+[02-09-2015 12:14:55] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Blood-Orange-Mini-Loaf-Cakes-491-14cd4693d2c16a7375e0381d25660b8dee2a6afc.jpg
+
+[02-09-2015 12:14:58] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-51-9a6701deefa6a922ed876a1c94971cbee72974ac.jpg
+
+[02-09-2015 12:14:59] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshopx-05780cc30e0a7a3e9e087ac20017229bc13a6c6b.jpg
+
+[02-09-2015 12:15:00] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-59-20c58b233b7ad933964268142d31472af3575d36.jpg
+
+[02-09-2015 12:15:01] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-x-a14ada8e5f621c8316385af0504eb1616e00a4bf.jpg
+
+[02-09-2015 12:15:03] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-56-83f3027b79a139d270f98609de3412905c7dcfd8.jpg
+
+[02-09-2015 12:15:04] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-38-45ed877ceb625cf4df18657376f2d38c5c91baf0.jpg
+
+[02-09-2015 12:15:05] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshopxx-d173ca64d47443ff458ce770abb4f20913d9e0b6.jpg
+
+[02-09-2015 12:15:06] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-54-adcee8348ca1e4f39ff00c5067cd3e58c33abe8d.jpg
+
+[02-09-2015 12:15:06] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-42-fffde85a1aef74746871faf6a9f19d49c7fef87c.jpg
+
+[02-09-2015 12:15:07] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Local-is-Lovely-Winter-Workshop-58-e02625a51ef399ca87a7dd6004de7f8f002e278e.jpg
+
+[02-09-2015 12:15:11] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Buckwheat-Strawberry-Olive-Oil-Muffins-e1439420846617-53de821be7687b9b747191a4990ee8fcf1565bd9.jpg
+
+[02-09-2015 12:15:12] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Buckwheat-Strawberry-Olive-Oil-Muffins-8-dfdb07a7dd9514d1988cd4532609498e95f75d35.jpg
+
+[02-09-2015 12:15:13] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i1.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Buckwheat-Strawberry-Olive-Oil-Muffins-2-b0eea5f314b3cbd6e1d9274d9597cd9c5cb49328.jpg
+
+[02-09-2015 12:15:13] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name i2.wp.com/erinmadethis.com/wp-content/uploads/2015/08/Buckwheat-Strawberry-Olive-Oil-Muffins-3-8fbc95e17a8475726c9f143eb6a84cf07148faaf.jpg
+
+
+[02-09-2015 12:23:34] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/single-serve-peanut-butter-nutella-skillet-cookie-150x150-13a27d06422a27486b394c492d1bb431918b29a4.jpg
+
+[02-09-2015 12:23:36] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/strawberry-mascarpone-cream-layer-cake3-150x150-b4abbfc3fea52770c3cccf8b6642a45628a99f31.jpg
+
+[02-09-2015 12:23:38] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/lucy-bake-play-smile-150x150-ff4e48ef36c2ac3f0f4433efa57c10a0eeaceb81.jpg
+
+[02-09-2015 12:23:40] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/bacon_sandwhich_hero_1140x700-150x150-631c4b926303c0de454d5da4957bc8517919e125.jpg
+
+[02-09-2015 12:23:43] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/what-pack-conference-150x150-4e53404c70d5ce86a74030b1e9357fdc034f6c4a.jpg
+
+
+[04-09-2015 23:39:01] [Error] WPRSS > wprss_ftp_media_sideload_image:
+Unique name loveswah.com/wp-content/uploads/launceston-street-view-150x150-466c7f88b2d49aac63b773a0fff18cf8debc5960.jpg
+
+
+[05-09-2015 03:28:38] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://loveswah.com/feed/". cURL error 6: Could not resolve host: loveswah.com
+
+[05-09-2015 03:28:39] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://erinmadethis.com/feed/". cURL error 6: Could not resolve host: erinmadethis.com
+
+
+[05-09-2015 03:28:46] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://loveswah.com/feed/". cURL error 6: Could not resolve host: loveswah.com
+
+[05-09-2015 03:28:46] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "http://erinmadethis.com/feed/". cURL error 6: Could not resolve host: erinmadethis.com
+
+
