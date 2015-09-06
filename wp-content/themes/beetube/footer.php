@@ -1,38 +1,95 @@
 <?php
 /**
- * Footer Template 
+ * Footer Template
  *
  * The footer template is generally used on every page of your site. Nearly all other
  * templates call it somewhere near the bottom of the file. It is used mostly as a closing
  * wrapper, which is opened with the header.php file. It also executes key functions needed
- * by the theme, child themes, and plugins. 
+ * by the theme, child themes, and plugins.
  *
  * @package BeeeTube
  * @subpackage Template
  *  1.0
  */
 ?>
+<style>
+	#authorContainer{
+	width:100%;
+	background-color: #ebebeb;}
+
+#authorContainer2{
+	width:1000px;
+	text-align: center;;
+	border:0px solid red;
+	height:400px;
+	margin:0 auto;}
+
+	.authorWrapper{
+		background-color: #ebebeb;
+		border:0px solid #ccc;}
+
+.authorWrapper li{
+	float:left;
+	width:320px;
+	text-align:center;
+	overflow:hidden;
+	border:0px solid green;
+}
+
+	.authorLink{
+		font-weight:bold;
+		text-decoration:underline;}
+
+				.authorWrapper img{
+					display:inline;
+				}
+</style>
+
+<br/>
+<div id="authorContainer">
+	<div id="authorContainer2">
+	<br/>
+	<h2>Our Bloggers</h2>
+			<ul class="authorWrapper">
+					<li>
+						<img src="<?php echo get_bloginfo('template_directory');?>/images/nicko.png" class="" alt="" />
+						<br/>
+						<a class="authorLink" href="index.php/category/rob-nixon/">Nicko's Recipe Box </a>
+					</li>
+					<li>
+						<img src="<?php echo get_bloginfo('template_directory');?>/images/jason.png" class="" alt="" />
+						<br/>
+						<a class="authorLink" href="index.php/category/jason-pinder/">Jason's Recipe Box</a>
+					</li>
+					<li>
+						<img src="<?php echo get_bloginfo('template_directory');?>/images/rebecca.png" class="" alt="" />
+						<br/>
+						<a class="authorLink" href="index.php/category/rebecca-thexton/">Rebecca's Recipe Box</a>
+					</li>
+	</ul>
+</div>
+</div>
 
 <?php $masonry_type = 'css3'; ?>
 
 	<?php do_action( 'jtheme_before_footer_php' ); ?>
-	
+
 	<footer id="footer">
 		<?php // Footbar
-		$footbar_status = get_option('jtheme_footbar_status'); 
+		$footbar_status = get_option('jtheme_footbar_status');
 		$footbar_layout = get_option('jtheme_footbar_layout', 'c3');
 		$masonry = get_option('jtheme_masonry', true);
 		if($masonry)
 			$masonry = ' class=""';
-		if($footbar_status) : 
+		if($footbar_status) :
 		echo '<div id="footbar" class="footbar-'.$footbar_layout.'" data-layout="'.$footbar_layout.'"><div class="wrap cf"><div id="footbar-inner"'.$masonry.'>';
 			if($footbar_layout == 'c4s1') {
 				for($i=1;  $i<=5; $i++) {
 					$class = 'widget-col widget-col-'.$i;
-				
+
 					if($i < 5)
 						$class .= ' widget-col-links';
-				
+
 					echo '<div class="'.$class.'">';
 						dynamic_sidebar('footbar-'.$i);
 					echo '</div>';
@@ -44,21 +101,21 @@
 		endif;
 		?>
 
-		<div id="colophon" role="contentinfo"><div class="wrap cf">		
-			
-			
+		<div id="colophon" role="contentinfo"><div class="wrap cf">
+
+
 			<?php  // Copyright
-				if($copyright = get_option('jtheme_site_copyright')) 
-					printf('<p id="copyright">'.$copyright.'</p>', date('Y'), '<a href="'.home_url().'">'.get_bloginfo('name').'</a>'); 
+				if($copyright = get_option('jtheme_site_copyright'))
+					printf('<p id="copyright">'.$copyright.'</p>', date('Y'), '<a href="'.home_url().'">'.get_bloginfo('name').'</a>');
 			?>
-			
+
 			<?php // Credits
-				if($credits = get_option('jtheme_site_credits')) 
+				if($credits = get_option('jtheme_site_credits'))
 					echo '<p id="credits">'.$credits.'</p>';
 			?>
 		</div></div><!-- end #colophon -->
 	</footer><!-- end #footer -->
-	
+
 </div><!-- end #page -->
 
 <script src="<?php echo get_template_directory_uri(); ?>/js/horizental/jquery.cbpQTRotator.js"></script>
@@ -94,7 +151,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>
-	
+
 <?php wp_footer(); ?>
 
 </body>

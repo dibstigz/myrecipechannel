@@ -63,66 +63,7 @@ get_header(); ?>
 		dynamic_sidebar( 'blog-grid' );
 	?>
 
-				<style>
-					#authorContainer{
-
-					text-align:center;}
-
-					.authorWrapper{
-						margin-left:120px;
-						text-align:centerl
-						width:200px;
-						background-color: #ebebeb;
-						height:280px;
-						float:left;
-						text-align: center;
-						padding-top:50px;
-						border:0px solid #ccc;}
-
-					.authorLink{
-						font-weight:bold;
-						text-decoration:underline;}
-
-					.bxSlider{
-						background-color:red;
-
-					}
-				</style>
-				
-				<br/>
-				<div id="authorContainer">
-					<h2 class="widgettitle">Our Bloggers</h2>
-					<ul class="bxslider">
-					  <li style="background-color:#ebebeb;">
-							<div class="authorWrapper">
-								  <img src="<?php echo get_bloginfo('template_directory');?>/images/nicko.png" class="slide" alt="" />
-									<a class="authorLink" href="index.php/category/rob-nixon/">Nicko's Recipe Box </a>
-							</div>
-							<div class="authorWrapper">
-									<img src="<?php echo get_bloginfo('template_directory');?>/images/jason.png" class="slide" alt="" />
-									<a class="authorLink" href="index.php/category/jason-pinder/">Jason's Recipe Box</a>
-							</div>
-							<div class="authorWrapper">
-								<img src="<?php echo get_bloginfo('template_directory');?>/images/rebecca.png" class="slide" alt="" />
-								<a class="authorLink" href="index.php/category/rebecca-thexton/">Rebecca's Recipe Box</a>
-							</div>
-						</li>
-						<li>
-							<div class="authorWrapper">
-								  <img src="<?php echo get_bloginfo('template_directory');?>/images/nicko.png" class="slide" alt="" />
-									<a class="authorLink" href="index.php/category/rob-nixon/">Nicko's Recipe Box </a>
-							</div>
-							<div class="authorWrapper">
-									<img src="<?php echo get_bloginfo('template_directory');?>/images/jason.png" class="slide" alt="" />
-									<a class="authorLink" href="index.php/category/jason-pinder/">Jason's Recipe Box</a>
-							</div>
-							<div class="authorWrapper">
-								<img src="<?php echo get_bloginfo('template_directory');?>/images/rebecca.png" class="slide" alt="" />
-								<a class="authorLink" href="index.php/category/rebecca-thexton/">Rebecca's Recipe Box</a>
-							</div>
-						</li>
-					</ul>
-				</div>
+			
 	</div><!-- end #content -->
 
 	<?php get_sidebar(); ?>
